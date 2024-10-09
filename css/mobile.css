@@ -66,15 +66,15 @@ nav ul li a {
   color: #000;
   background-color: #1df500;
 }
+
 .colPicker {
-  background-color: #fff;
-  border: 1px dashed #ccc;
-  padding: 2px;
-  color: #000;
+  /* background-color: #fff; */
+  /* border: 1px dashed #ccc; */
+  /* padding: 2px; */
+  /* color: #000; */
+  padding: 0.5rem 1rem;
 }
-.colPicker:hover {
-  cursor: pointer;
-}
+
 .redBack {
   background-color: #be1c26;
 }

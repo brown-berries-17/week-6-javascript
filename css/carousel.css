@@ -1,0 +1,9 @@
+.carousel {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.carouselSlide > img {
+  /* max-height: 20rem; */
+}
